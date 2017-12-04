@@ -2,12 +2,12 @@
 
 A dead simple NBA stats app
 
-![Values](https://github.com/traverspinkerton/one-dribble/mockups/blob/master/PageValues.png)
+![Values](https://raw.githubusercontent.com/traverspinkerton/one-dribble/master/mockups/PageValues.png)
 
 # Mockups:
 
 1. Main Page
-![Main Page](https://github.com/traverspinkerton/one-dribble/mockups/blob/master/MainPage.png)
+![Main Page](https://raw.githubusercontent.com/traverspinkerton/one-dribble/master/mockups/MainPage.png)
 
 2. Player Stats
-![Player Stats](https://github.com/traverspinkerton/one-dribble/mockups/blob/master/PlayerStats.png)
+![Player Stats](https://raw.githubusercontent.com/traverspinkerton/one-dribble/master/mockups/PlayerStats.png)
