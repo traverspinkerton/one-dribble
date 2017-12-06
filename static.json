@@ -1,0 +1,8 @@
+{
+  "root": "build/",
+  "proxies": {
+    "/stats/": {
+      "origin": "https://stats.nba.com/stats/"
+    }
+  }
+}
