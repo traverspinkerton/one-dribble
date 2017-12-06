@@ -4,5 +4,10 @@
     "/stats/": {
       "origin": "${API_URL}"
     }
+  },
+  "headers": {
+    "/**": {
+      "Access-Control-Allow-Origin": "*"
+    }
   }
 }
