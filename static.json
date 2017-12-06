@@ -1,7 +1,7 @@
 {
   "root": "build/",
   "proxies": {
-    "/stats/": {
+    "/api/": {
       "origin": "${API_URL}"
     }
   },
