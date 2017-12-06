@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import playerList from '../players';
 
-const url = 'https://stats.nba.com/stats/commonplayerinfo?PlayerID=';
+const url = 'commonplayerinfo?PlayerID=';
 
 class SearchBar extends Component {
   state = {
